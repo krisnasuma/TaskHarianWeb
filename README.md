@@ -11,6 +11,7 @@ Step:
 - (Menggunakan Framework HTML, CSS, Javascript dari Bootstrap)
 
 jika ingin mengembangkan, silahkan kembangkan :)
+Dibuat untuk tujuan belajar serta referensi website berdasarkan implementasi "Tools Task sehari-hari yang Sederhana"
 
 
 
