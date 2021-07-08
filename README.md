@@ -7,6 +7,8 @@ Step:
 - import database "dbtodo.sql" ke phpmyadmin (jangan lupa buat database bernama "dbtodo"
 - jalankan pada browser dengan mengetikkan "localhost/TaskHarianWeb
 - done
+- Untuk preview tampilan  dalam html bisa buka file "tempelate.html"
+- (Menggunakan Framework HTML, CSS, Javascript dari Bootstrap)
 
 jika ingin mengembangkan, silahkan kembangkan :)
 
